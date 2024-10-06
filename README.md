@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AntoineBuffandeau
-- 👀 I’m interested in programming and quantum computing !
+- 👀 I’m interested in Financial Engineering, Programming and Quantum Computing !
 - 🌱 I’m currently learning computer science at ESILV.
 - 📫 Reach me at https://www.linkedin.com/in/antoine-buffandeau
 
